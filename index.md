@@ -4,17 +4,15 @@
 
 #### AutoML
 
-[Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
-<img src="images/NAS_poster.jpg?raw=true"/>
+- [Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
+<img src="images/NAS_poster.jpg?"/>
 ---
 
-### Category Name 2
+### Forecasting with Alternative Data 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Prediction Engine for Quarterly Reporting Metrics](/jpg/wellington_poster.jpg)
+<img src="images/wellington_poster.jpg?"/>
+
 
 ---
 
