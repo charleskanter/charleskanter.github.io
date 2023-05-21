@@ -4,13 +4,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   First description 
   <br><br>
-  Operations Research MS Graduate from Columbia Engineering with expertise in data science, machine learning, and deep learning. 
-  Professional experiences in financial risk analytics, alternative asset management, and management consulting. 
-  Proficient in Python (and packages), Microsoft Office, SQL, and Bash. 
+  Columbia Engineering MS in Operations Research graduate with a talent for bridging the gap between
+  technical concepts and diverse audiences.
   <br><br>
-  Passionate about the intersection of finance, technology, and data-driven insights.
-  <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Skilled in data science, machine learning, and deep learning, with professional experience in financial risk analytics, 
+  alternative asset management, and management consulting. Passionate about the intersection of finance, technology,
+  and driving data-powered solutions.
+  <br><br>
+  <a href="https://www.linkedin.com/in/charleskanter/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
