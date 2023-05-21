@@ -5,7 +5,7 @@
 #### AutoML
 
 [Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
-<img src="images/NAS_poster.pdf?raw=true"/>
+<img src="images/NAS_poster.jpg?raw=true"/>
 ---
 
 ### Category Name 2
