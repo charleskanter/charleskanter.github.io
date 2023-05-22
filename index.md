@@ -11,7 +11,7 @@
 
 ### Forecasting with Alternative Data 
 
-- [Prediction Engine for Quarterly Reporting Metrics](/jpg/wellington_poster.jpg)
+- [Prediction Engine for Quarterly Reporting Metrics](/pdf/wellington_poster.pdf)
 <img src="images/wellington_poster.jpg?"/>
 
 ---
