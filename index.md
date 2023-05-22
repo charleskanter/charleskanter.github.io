@@ -14,7 +14,7 @@
 ### Forecasting with Alternative Data 
 
 [Prediction Engine for Quarterly Reporting Metrics](/pdf/wellington_poster.pdf)
-
+- We explore the use of alternative data and ML models to predict company earning metrics. We apply preprocessing techniques, including upsampling and moving average filtering, and evaluate various models such as decision tree regression, Ridge regression, XGBoost, and RNN, with Ridge regression showing the best performance.
 
 
 <img src="images/wellington_poster.jpg?"/>
