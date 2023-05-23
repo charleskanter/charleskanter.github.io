@@ -2,7 +2,7 @@
 
 ---
 
-### AutoML: [Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
+### [AutoML: Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
 
 In this research project, we leverage reinforcement learning techniques to automate the selection of neural network architectures for financial time series forecasting. We train an agent to explore different network architectures, update its policy with Q-learning methods, and ultimately exploit its knowledge to suggest an optimal architecture.
 
