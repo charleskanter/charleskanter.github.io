@@ -1,5 +1,5 @@
-# Selected projects in data science and machine learning
-
+# Portfolio
+## Selected projects in data science and machine learning
 ---
 
 ### [AutoML: Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
