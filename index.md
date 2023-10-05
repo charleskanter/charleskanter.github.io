@@ -4,7 +4,7 @@
 
 ### [AutoML: Neural Architecture Search for Sequence Models](/pdf/NAS_poster.pdf)
 
-I partner with a colleague to leverage reinforcement learning techniques to automate the selection of neural network architectures for financial time series forecasting. We train an agent to explore different network architectures, update its policy with Q-learning methods, and ultimately exploit its knowledge to suggest an optimal architecture.
+In this research project, I partner with a colleague to leverage reinforcement learning techniques to automate the selection of neural network architectures for financial time series forecasting. We train an agent to explore different network architectures, update its policy with Q-learning methods, and ultimately exploit its knowledge to suggest an optimal architecture.
 
 I had the unique opportunity to present this research on behalf of our team at the 8th Annual Bloomberg-Columbia Machine Learning in Finance Workshop poster session in September of 2022.
 
@@ -39,4 +39,5 @@ In this project, I collaborated with a team to build a fraud prediction model us
 
 <img src="images/fraud_graphic1.jpg?"/>
 
+Test
 ---
